@@ -46,7 +46,6 @@ function del_dir_filter($path,$filter='.svn'){
  * 删除指定文件夹（包括所有子文件和文件夹）
  * 
  * @author PHPJungle
- * @access 参数必须是文件目录
  * @since 15.01.21 周三
  * @param string $path        	
  * @return NULL boolean
